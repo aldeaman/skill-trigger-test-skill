@@ -1,4 +1,4 @@
-rom mycroft import MycroftSkill, intent_handler
+from mycroft import MycroftSkill, intent_handler
 
 
 class SkillTriggerTest(MycroftSkill):
